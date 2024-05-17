@@ -1,0 +1,10 @@
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\bin\Debug\WindowsFormsApp1Sheldunov.exe.config
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\bin\Debug\WindowsFormsApp1Sheldunov.exe
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\bin\Debug\WindowsFormsApp1Sheldunov.pdb
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\obj\Debug\WindowsFormsApp1Sheldunov.csprojAssemblyReference.cache
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\obj\Debug\WindowsFormsApp1Sheldunov.Form1.resources
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\obj\Debug\WindowsFormsApp1Sheldunov.Properties.Resources.resources
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\obj\Debug\WindowsFormsApp1Sheldunov.csproj.GenerateResource.cache
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\obj\Debug\WindowsFormsApp1Sheldunov.csproj.CoreCompileInputs.cache
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\obj\Debug\WindowsFormsApp1Sheldunov.exe
+C:\Users\29434408\source\repos\WindowsFormsApp1Sheldunov\WindowsFormsApp1Sheldunov\obj\Debug\WindowsFormsApp1Sheldunov.pdb
